@@ -1,4 +1,4 @@
-# SI_2023_lab2_INDEX
+# SI_2023_lab2_213184
 
 Borjan Gjorgiev
 213184
