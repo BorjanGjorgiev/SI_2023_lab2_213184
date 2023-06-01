@@ -5,7 +5,8 @@ Borjan Gjorgiev
 
 2.Control Flow Graph
 
-![image](https://github.com/BorjanGjorgiev/SI_2023_lab2_INDEX/assets/127698412/059e8d11-c28f-4ff3-8e6c-1a5eb9f85be5)
+![image](https://github.com/BorjanGjorgiev/SI_2023_lab2_213184/assets/127698412/d338e135-b298-4e4d-aee3-3ca9bb9cf7fb)
+
 
 3.Цикломатската комплексност на дадениот код за оваа лабараториска вежба изнесува 11.До ова решение можеме да дојдеме на два начини.
 I-броење на регионите на цртежот. Бројот на региони(10) + 1 = 11
