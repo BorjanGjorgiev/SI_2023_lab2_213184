@@ -4,6 +4,8 @@ Borjan Gjorgiev
 213184
 
 2.Control Flow Graph
+
+
 ![image](https://github.com/BorjanGjorgiev/SI_2023_lab2_INDEX/assets/127698412/059e8d11-c28f-4ff3-8e6c-1a5eb9f85be5)
 
 
